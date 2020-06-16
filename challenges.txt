@@ -1,5 +1,5 @@
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃           Computer Science A Level - Getting Ready Day 2019                  ┃
+┃           Computer Science A Level - Getting Ready Day 2020                  ┃
 ┃                         JavaScript Snake Game                                ┃
 ┃                      C H A L L E N G E   L I S T                             ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
@@ -20,7 +20,7 @@ JavaScript Challenges: (script.js)
 • Change the grid size to be 10 pixels (why do the apple vanish!?)
 • Fix the problem of disappearing apples.
 
-Take home extension challenges:
+Extension challenges:
 
 • Add a second simultaneous player
 • Make the canvas fill the whole web browser window and resize with it
