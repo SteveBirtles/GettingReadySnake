@@ -1,5 +1,5 @@
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃           Computer Science A Level - Getting Ready Day 2020                  ┃
+┃           Computer Science A Level - Getting Ready Day 2021                  ┃
 ┃                         JavaScript Snake Game                                ┃
 ┃                      C H A L L E N G E   L I S T                             ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
